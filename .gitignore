@@ -1,0 +1,6 @@
+**/build/
+**/.gradle/
+**/local.properties
+*.jks
+*.keystore
+api-key.txt
